@@ -1,0 +1,9 @@
+.DS_Store
+doc/
+bin/
+gen/
+build/
+
+*.html
+*.log
+*.class
